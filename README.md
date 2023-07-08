@@ -9,5 +9,4 @@ Our fitness AI mirror provides a range of features, including personalized diet 
 
 Run the following command to clone the repository:
 bash
-Copy code
 git clone https://github.com/teeshaa/SwashakAI.git
